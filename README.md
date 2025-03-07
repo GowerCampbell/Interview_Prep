@@ -101,5 +101,3 @@ Welcome to my interview preparation for the **DevOps Engineer** role at Sparta G
 - **Mindset**: I’m ready to showcase my unique blend of creativity and tech skills, aligning with Sparta Global’s goal to foster diverse, impactful tech talent. Let’s do this!
 
 ---
-
-Good luck, Gower! This README is your prep hub—use it to nail that interview and kickstart your DevOps journey with Sparta Global. You’ve got the skills, story, and spirit to shine. Let me know how it goes or if you need a last-minute tweak!
